@@ -35,7 +35,7 @@ class MachineASous:
             return gain
         else:
             print("Perdu !")
-            return -1
+            return -3
 
 class Jeu:
     def __init__(self, solde_initial):
